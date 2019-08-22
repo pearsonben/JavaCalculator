@@ -1,4 +1,4 @@
 # JavaCalculator
-Simple java GUI calculator using Gridbaglayouts
+Simple java Swing Calculator.
 
-Run the main class 'calculatorProgram' from the src folder
+Open the project file and then run the 'calculatorProgram.java' class.
